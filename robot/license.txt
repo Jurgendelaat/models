@@ -1,0 +1,11 @@
+Model Information:
+* title:	Robot Arm
+* source:	https://sketchfab.com/3d-models/robot-arm-3702143c54904ed186d1f4dc6ea015bc
+* author:	Tom Johnson (https://sketchfab.com/Brigyon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Robot Arm" (https://sketchfab.com/3d-models/robot-arm-3702143c54904ed186d1f4dc6ea015bc) by Tom Johnson (https://sketchfab.com/Brigyon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
